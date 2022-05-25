@@ -1,0 +1,10 @@
+********* Hangman Game *********
+
+The program chooses a random word from the words.txt file. The player must guess letters in order to find a secret word.
+
+------------------------------------------------------------------------------------------------------------------------
+*** Rules ***
+
+==> The computer tells the player with the number of letters in a secret word, the number of guesses remaining, and the letters available for selection.
+==> Following each guess, the player receives instant feedback. If a guessed letter is correct, it will appearin its correct place.
+==> The player loses a guess when a letter is incorrect.
